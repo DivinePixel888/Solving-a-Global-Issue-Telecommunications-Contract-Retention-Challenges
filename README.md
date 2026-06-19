@@ -55,7 +55,7 @@ This project highlights how structural inefficiencies in contract management sys
 
 * Project documentation
 * Problem statement analysis
-* Supporting materials (if applicable)
+* Supporting materials 
 
 ---
 
